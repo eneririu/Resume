@@ -1,0 +1,174 @@
+---
+title: "Irene Ham Liu"
+author: Irene Ham Liu
+#and Kyle Monahan!!!
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # Thanks to Eric R. Scott for this tip! 
+    self_contained: false
+---
+
+Aside
+================================================================================
+
+
+![Data](data_icon.png){width=30%}
+<!-- ![Data](`r here::here("data_icon.png")`) -->
+
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> irene.ham_liu@tufts.edu
+- <i class="fa fa-github"></i> [github.com/eneririu/](https://github.com/eneririu)
+- <i class="fa fa-phone"></i> +1 857-329-6244
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Experienced in **Data Analytics, Business Intelligence, and Product Management**.
+
+- Performing data analysis, with a focus on **Customer Journey and Revenue Analysis**.
+
+- Fluent in Agile Methodology as experienced **Scrum Master**.
+
+- **Highly cross-functional** with experience in Sales, Finance, Marketing, and Consumer Analytics.
+
+- Advanced **Tableau** dashboard development. 
+
+- **Big Data** algorithms on GCP.
+
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+<!--This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).-->
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Irene Ham Liu {#title}
+--------------------------------------------------------------------------------
+
+### Data Analyst and GEM Fellow.
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Tufts University
+
+M.S. Candidate in Data Analytics
+
+Medford, MA
+
+2019--Current
+
+
+### Universidad Nacional Autonoma de Mexico
+
+B.S. in Physics
+
+Mexico City, Mexico 
+
+2012--2017
+
+
+
+Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Data Analyst
+
+Shorelight Education
+
+Boston, MA
+
+2018--Current
+
+- Actively supporting leaders in the International Higher Education sector with data-driven insights and tools to improve efficiency and customer engagement.
+- Developing and maintain reports, presentations, and Tableau dashboards that allow stakeholders to closely monitor performance.
+- Working closely with the Data Architecture team to create solutions from low-level to client-facing tools.
+- Performing as Scrum Master for the Data Analytics team.
+
+
+### Data Engineer
+
+PLADI
+
+Mexico City, Mexico
+
+2015--2017
+
+- Developed and maintained patient database for a private Neurophysilogy practice.
+- Performed Customer Journey analysis to identify outreach opportunities.
+- Drove a 160% revenue increase during the first 6 months of implementation.
+
+Research Experience {data-icon=flask}
+--------------------------------------------------------------------------------
+
+### Undergraduate Research Assistant
+
+Instituto de Investigaciones en Materiales - UNAM
+
+Mexico City, Mexico
+
+2015--2017
+
+- Developed an enhanced Lithium-based ceramic powder for high temperature CO_2 capture.
+- Published research as first author on December 2017: https://doi.org/10.1016/j.jcou.2017.11.009
+- 1st place poster presentation winner at the 16th International Conference on Carbon Dioxide Utilization in Rio de Janeiro, Brazil.
+
+
+
+Selected Project Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Incentive Tracking Dashboards
+
+Shorelight Education
+
+Boston, MA
+
+2018--current
+
+<!--::: concise-->
+- Developed and maintain Incentive and APP tracking Tableau dashboards that allow stakeholders to closely monitor their team's performance towards goals and bonuses.
+- Drove an increase of 200% goal attainment rate and partner engagement during the first Fiscal Year of implementation.
+- Facilated claims and QA of payments that allowed the company to save $2.8M in incorrect allocations.
+<!--:::-->
+
+
+
+
+### Automated Scrum Sprint Capacity Planner
+
+Shorelight Education
+
+Boston, MA
+
+2020
+
+- Created an automated Sprint Capacity planner adapted to the team's needs and workflow.
+- Improved accuracy of capacity estimation has driven a ~140% increase in story point completion rate to-date.
+
+
+
+Awards {data-icon=comment-alt}
+--------------------------------------------------------------------------------
+### GEM Fellowship Award
+Awarded a a highly competitive Full Scholarship to the MS in Data Analytics at Tufts University by the GEM Consortium, who support distinguished minorities in STEM.
+
+Boston, MA
+
+August 2019
+
+
