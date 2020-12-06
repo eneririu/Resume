@@ -1,4 +1,4 @@
-# data200_datascienceresumes
-A collection of data science resumes for the DATA-200 course. 
+# My Resume
 
-Inspired by Eric Scott's data science resume sample and Yihui's **pagedown** package. Thanks to you both! 
+Inspired by Eric Scott's data science resume sample and Yihui's **pagedown** package.
+Provided by Kyle Monahan. Thank you!!
